@@ -1,0 +1,207 @@
+{
+  "domain": "dancefootwrap",
+  "niche": "Ergonomic Heel-Tab Foot Covers & Low-Cut Athletic Hosiery",
+  "design_concept": "Neo-Classicist Guild & Roman Columnar",
+  "archetype_id": "neoclassic_guild",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "chunky_handknit_wool_socks.jpg",
+      "size_kb": 122.05,
+      "md5": "b945402b5478b135a117dac4c44ae933",
+      "description": "Handcrafted chunky wool socks in natural undyed knit texture",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "cozy_winter_lounge_socks.jpg",
+      "size_kb": 120.25,
+      "md5": "3702975bfdcdd8577d1be3fe554812c0",
+      "description": "Warm knitted winter lounge socks worn relaxing at home",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "athletic_cushioned_crew_socks.jpg",
+      "size_kb": 49.04,
+      "md5": "5f4d98edca9c72daa74c6bdf7623a71e",
+      "description": "Performance cushioned crew socks engineered for arch support",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "sartorial_mercerized_cotton_socks.jpg",
+      "size_kb": 57.15,
+      "md5": "54fcb2930b1d9bf4968c4ff50fbbf5cf",
+      "description": "Sartorial mercerized Egyptian cotton socks in charcoal grey",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "minimalist_white_ankle_socks.jpg",
+      "size_kb": 59.64,
+      "md5": "7908892ea6b1f0676a4979ad0e2d079e",
+      "description": "Low-profile white cotton ankle socks paired with clean leather footwear",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "patterned_jacquard_wool_socks.jpg",
+      "size_kb": 141.73,
+      "md5": "9a20efcd301a4a9b9158cd7934391a3c",
+      "description": "Intricate jacquard patterned wool dress socks displayed on wooden bench",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "everyday_relaxed_comfort_socks.jpg",
+      "size_kb": 96.56,
+      "md5": "75bb79626a383fa9ee4fc4e2b5d3e93f",
+      "description": "Breathable combed cotton casual socks for daily comfort",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "bamboo_fiber_knee_high_socks.jpg",
+      "size_kb": 56.93,
+      "md5": "e876882d194b6b454a0efac8c98d9b02",
+      "description": "Silky bamboo viscose seamless knee-high hosiery on tailoring form",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "seamless_compression_running_socks.jpg",
+      "size_kb": 165.82,
+      "md5": "58b81c43813198845f33a5c93e83f68a",
+      "description": "Graduated compression seamless sports socks with targeted arch band",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "botanical_dyed_linen_socks.jpg",
+      "size_kb": 55.74,
+      "md5": "184cae7418397dbc933ecb5dbde58894",
+      "description": "Natural botanical-dyed French flax linen ankle socks",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "low_cut_invisible_liner_socks.jpg",
+      "size_kb": 71.69,
+      "md5": "4ea70b449781dec66343816a385dc12f",
+      "description": "Non-slip seamless invisible liner socks with silicone heel grip",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "mercer_boutique_hosiery_wall.jpg",
+      "size_kb": 74.09,
+      "md5": "1528fca7e41ec1f46bfff3b40b8af228",
+      "description": "Seamless hosiery collections elegantly showcased at 181 Mercer Street salon",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "chunky_wool_bed_socks.jpg",
+      "size_kb": 109.64,
+      "md5": "4fe718d390172d19cb1496b9a056b67a",
+      "description": "Undyed natural British wool sleeping socks in warm fleece texture",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "hosiery_gift_box_presentation.jpg",
+      "size_kb": 159.24,
+      "md5": "f064e2ca59e9a9ab23928d4f127954ed",
+      "description": "Luxury embossed presentation gift box containing six rolled cashmere socks",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "monochrome_minimalist_hosiery.jpg",
+      "size_kb": 96.57,
+      "md5": "d7ae361297bd0716c648f05005bcc83a",
+      "description": "Minimalist black and charcoal seamless modal dress socks on slate tile",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "leather_oxford_sartorial_socks.jpg",
+      "size_kb": 64.79,
+      "md5": "33c541f9d78704d8413a9e3d8cffaddb",
+      "description": "Handmade calfskin oxfords paired with fine mercerized cotton socks",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "performance_compression_socks.jpg",
+      "size_kb": 152.42,
+      "md5": "4522d6cb819dad7c339f69bfdb1066b9",
+      "description": "Targeted arch band seamless performance socks in modern monochrome",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "fashion_editorial_ribbed_hosiery.jpg",
+      "size_kb": 94.15,
+      "md5": "67f32c4825688d0dcbc7dcb7178e35a6",
+      "description": "Editorial high-fashion look featuring ribbed seamless over-the-knee socks",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "street_style_crew_socks_loafers.jpg",
+      "size_kb": 147.74,
+      "md5": "6b1456d0451567d9c7b73880160479b6",
+      "description": "Urban metropolitan street style featuring ribbed crew socks and loafers",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "minimalist_haberdashery_hosiery.jpg",
+      "size_kb": 40.28,
+      "md5": "2227de3465d3613a997b93fe089b039d",
+      "description": "Minimalist brass tray showcasing hand-finished ribbed crew socks",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://dancefootwrap.com/sitemap.xml",
+    "robots": "https://dancefootwrap.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
